@@ -12,7 +12,6 @@ function sum(a, b) { //eslint-disable-line
     let result = a+b;
     let answer = `The sum of ${a} and ${b} is ${result}.`;
     return [result,answer];
-
 }
 
 // Here is the test for sum(); uncomment it to run it
